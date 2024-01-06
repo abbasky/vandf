@@ -1,0 +1,22 @@
+{
+  "name": "vandf",
+  "version": "1.0.0",
+  "description": "Open source vanilla JavaScript data-driven framework",
+  "type": "module",
+  "main": "index.js",
+  
+  "author": {"name": "XY JIN", "email": "abbasky@qq.com"},
+  "license":"MIT",
+
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5"
+  },
+  "dependencies": {
+    "fastdom": "^1.0.11"
+  }
+}
